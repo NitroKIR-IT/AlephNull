@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 33f8e08e2e8e64340a29e081919276fb
+timeCreated: 1489231200
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gandhi Serif
+  fontNames:
+  - Gandhi Serif
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

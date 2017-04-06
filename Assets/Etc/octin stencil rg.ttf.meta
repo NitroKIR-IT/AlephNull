@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a4848d0f7279787478cb47a0c44b7faf
+timeCreated: 1491021308
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Octin Stencil
+  fontNames:
+  - Octin Stencil
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
